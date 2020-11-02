@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VideoToPhotos</string>
+    <string name="title_activity_gallery">Thư Viện</string>
+    <string name="tab_text_1">Video</string>
+    <string name="tab_text_2">Hình Ảnh</string>
+    <string name="tab_capture_1">Chụp nhanh</string>
+    <string name="tab_capture_2">Chụp theo thời gian</string>
+    <string name="image_thumb" translatable="false">imgThumb</string>
+    <string name="name" translatable="false">name</string>
+    <string name="play" translatable="false">play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_take_image" translatable="false">TakeImageActivity</string>
+    <string name="btn_take">Chụp</string>
+</resources>

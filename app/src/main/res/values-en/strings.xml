@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoToPhotos</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="tab_text_1">Videos</string>
+    <string name="tab_text_2">Images</string>
+    <string name="tab_capture_1">Quick Capture</string>
+    <string name="tab_capture_2">Time Capture</string>
+</resources>
